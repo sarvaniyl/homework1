@@ -1,2 +1,2 @@
-# Homework 1
-Hello Professor
+# Hello professor
+homework 1
